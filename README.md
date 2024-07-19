@@ -181,3 +181,4 @@ and from an early standalone version of Grist developed at Grist Labs.
 # License
 
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+# grist-desktop_clone
